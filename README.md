@@ -16,7 +16,7 @@ and instructions header are clicked the ingredients and instructions are
 displayed.
 
 ### View Project:
-https://eak13b.github.io/lesson7_jquery/Lesson7_Assignment
+https://eak13b.github.io/lesson7_jquery/ 
 
 ### Lessons Learned in the Assignment:
 1. In this lesson I learned about jQuery, a commonly used library that allows 
